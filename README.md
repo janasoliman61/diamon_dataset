@@ -1,2 +1,2 @@
-# diamon_dataset
+# diamond_dataset
 EDA, cleaning, preprocessing, visualizing the data
